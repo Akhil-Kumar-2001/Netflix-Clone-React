@@ -1,4 +1,5 @@
 Netflix Clone
+
 A Netflix-inspired streaming platform clone built using React, with TMDB for movie data and Firebase for user authentication. This project aims to replicate Netflix's core features and provide a smooth, interactive UI.
 
 📌 Features
